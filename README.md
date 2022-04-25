@@ -1,8 +1,8 @@
 Hi 👋 My name is Ahmed Wagih
 ============================
 
-Front-end
----------
+Junior front end web developer
+------------------------------
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [ahmd.wagih96@gmail.com](mailto:ahmd.wagih96@gmail.com)
