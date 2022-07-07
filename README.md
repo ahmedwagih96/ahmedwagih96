@@ -1,7 +1,7 @@
 Hi 👋 My name is Ahmed Wagih
 ============================
 
-Junior front end web developer
+Junior React Web Developer
 ------------------------------
 
 * 🌍  I'm based in Egypt
