@@ -4,7 +4,7 @@ Hi 👋 My name is Ahmed Wagih
 Junior React Web Developer
 ------------------------------
 
-* 🌍  I'm based in Egypt
+* 🌍  I'm based in Cairo, Egypt (GMT +2)
 * ✉️  You can contact me at [ahmd.wagih96@gmail.com](mailto:ahmd.wagih96@gmail.com)
 * 🧠  I'm learning React.js
 
