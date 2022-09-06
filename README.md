@@ -6,7 +6,7 @@ Junior React Web Developer
 
 * 🌍  I'm based in Cairo, Egypt (GMT +2)
 * ✉️  You can contact me at [ahmd.wagih96@gmail.com](mailto:ahmd.wagih96@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning TypeScript
 
 ### Skills
 
