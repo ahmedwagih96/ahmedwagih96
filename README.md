@@ -1,7 +1,7 @@
 Hi 👋 My name is Ahmed Wagih
 ============================
 
-Junior React Web Developer
+React Web Developer
 ------------------------------
 
 * 🌍  I'm based in Cairo, Egypt (GMT +2)
